@@ -3,7 +3,7 @@
     "start": "node index.js"
   },
    "dependencies": {
-     "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@latest",
+     "@whiskeysockets/baileys": "^6.0.0",
      "@adiwajshing/keyed-db": "^0.2.4",
      "pino": "^7.0.5",
      "util": "^0.12.3",
