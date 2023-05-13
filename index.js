@@ -3,7 +3,7 @@ const {
      useMultiFileAuthState,
      generateWAMessageFromContent,
      makeCacheableSignalKeyStore
- } = require('@adiwajshing/baileys')
+ } = require('@whiskeysockets/baileys')
 
 const pino = require('pino')
 const { format } = require('util')
