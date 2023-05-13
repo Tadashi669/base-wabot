@@ -10,7 +10,7 @@
 
 ### Clona este repositorio:
 ```bash
-$ gitclone https://github.com/Tadashi669/base-wabot
+$ git clone https://github.com/Tadashi669/base-wabot
 ```
 
 ### Inicia la instalación:
