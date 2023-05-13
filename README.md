@@ -1,5 +1,9 @@
 # base-wabot
-<src img="https://telegra.ph/file/a88de6973f18046e409a9.jpg" heigth=250 width=250≥
+<p align="center">
+
+<img src="https://telegra.ph/file/a88de6973f18046e409a9.jpg" width="140" height="140"/>
+
+</p>
 * Esta es una simple base de bot para WhatsApp usando la librería Baileys.
 
 
